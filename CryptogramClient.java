@@ -4,6 +4,12 @@
  * Created by Sam Decanio on 10/29/2014
  * Last Edited: March 30, 2015
  */
+
+/*
+    TODO: Would like to add functionality to read in the file containing
+            the key and then take a given text file and decode/encode using
+            that given key
+ */
 import java.util.*;
 import java.io.*;
 import java.io.IOException;
